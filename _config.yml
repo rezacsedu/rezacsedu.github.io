@@ -1,0 +1,28 @@
+title: Mohamed Behery
+url: "behery.github.io"
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Home"
+   link: "/"
+ - name: "Resume"
+   link: "cv.pdf"
+ - name: "Teaching"
+   link: "teaching"
+ - name: "Projects"
+   link: "projects"
+ - name: "Contact"
+   link: "contact"
