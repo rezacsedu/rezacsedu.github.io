@@ -2,9 +2,9 @@
 
 <img class="profile-picture" src="img/1664312512000.jpg" width="150">
 
-<p style='text-align: justify;'> I'm a Sr. Data Scientist at Fraunhofer FIT and a Postdoc at RWTH Aachen University, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under supervision of <b>Prof. Stefan Decker</b>, with distinction (Summan Cum Laude)! </p>
+<p style='text-align: justify;'> I'm a Sr. Data Scientist at Fraunhofer FIT and Postdoc at RWTH Aachen University, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under supervision of <b>Prof. Stefan Decker</b>, with distinction (Summan Cum Laude)! </p>
 
-<p style='text-align: justify;'>I received best the application paper award at 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA'2020). I also won the prestigious RWTH Aachen University <b>ICT Young Researcher Award</b> in 2020, for my significant contributions to ICT-related research. </p>
+<p style='text-align: justify;'>I received the best application paper award at 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA'2020). I also won the prestigious RWTH Aachen University <b>ICT Young Researcher Award</b> in 2020, for my significant contributions to ICT-related research. </p>
 
 - I'm a technology lover. I love applied machine learning and explainable AI (XAI). 
 - I love learning, mentoring, and coding! 
