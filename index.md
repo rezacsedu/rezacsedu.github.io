@@ -1,6 +1,6 @@
 ## About Me
 
-<img class="profile-picture" src="img/1664312512000.jpg" width="300">
+<img class="profile-picture" src="img/1664312512000.jpg" width="200">
 
 Hello there! I'm a Senior Data Scientist at Fraunhofer FIT and a Postdoctoral Researcher, RWTH Aachen University, Germany. I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems towards making them well-interpretable. 
 
