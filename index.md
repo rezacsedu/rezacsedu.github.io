@@ -2,11 +2,9 @@
 
 <img class="profile-picture" src="img/1664312512000.jpg" width="200">
 
-Hello there! I'm a Senior Data Scientist at Fraunhofer FIT and a Postdoctoral Researcher, RWTH Aachen University, Germany. I'm adept and experienced at analyzing large-scale datasets, developing accurate predictive models using advanced analytical methods, and implementing data-driven solutions to complex problems towards making them well-interpretable. 
+Hello there! I'm a Senior Data Scientist at Fraunhofer FIT and a Postdoctoral Researcher, RWTH Aachen University, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! 
 
-I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! During my PhD, I published several scientific articles in major/top conferences and journals. Besides, I received the best paper (NLP) award at a top data science conference. As the recognition, I won the prestigious ICT Young Researcher Award 2020 for my significant contributions to ICT-related research. 
-
-Overall, I've several years of experience in data science roles, covering predictive modelling, data analytics, deployment, and R&D skills and hands-on experience of using ML frameworks, MLOPs frameworks, and dealing with large-scale datasets, followed by building robust ML models with a view to scaling from the beginning. I apply ML, NLP and semantic web technologies on daily basis in order to develop data and knowledge-driven analytical solutions. 
+Besides, I received the best paper (NLP) award at a top data science conference. As the recognition, I won the prestigious ICT Young Researcher Award 2020 for my significant contributions to ICT-related research. 
 
 - I'm a technology lover. I love data science, applied machine learning, explainable AI (XAI), and distributed data analytics. 
 - I love learning, mentoring, and coding! Oh yeah, I wrote several machine/deep learning & data engineering [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
