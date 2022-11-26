@@ -1,6 +1,6 @@
 ## About Me!
 
-<img class="profile-picture" src="img/1664312512000.jpg" width="150">
+<img class="profile-picture" src="img/1664312512000.jpg" width="100">
 
 <p style='text-align: justify;'> I'm a Senior Data Scientist at Fraunhofer FIT and Postdoc at RWTH Aachen University. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of <b>Prof. Dr. Stefan Decker</b>, with distinction (Summan Cum Laude)! </p>
 
@@ -16,12 +16,10 @@ Opinions are mine, not my employer's!
 
 ### Research interests
 
-- Data science 
-- Deep learning
+- Machine/deep learning
 - Explainable AI
 - Knowledge graphs 
-- Bioinformatics
-- Applied machine learning. 
+- Bioinformatics.
 
 ### Academic background
 
