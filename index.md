@@ -25,17 +25,17 @@ Opinions are mine, not my employer's!
 
 ### Academic background
 
-#### PhD, RWTH Aachen University, Germany [2017 - 2021]
+#### PhD, RWTH Aachen University, Germany [2017-2021]
 - **Thesis title**: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning
 - **Supervisor**: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
 - **Dissertation grade**: Summa Cum Laude.
 
-### Master of Engineering, Kyung Hee University, Korea [2010 - 2012]
+### Master of Engineering, Kyung Hee University, Korea [2010-2012]
 - **Major**: Data mining and knowledge discovery with minor in AI and cryptography
 - **Master thesis title**: Privacy Preserving Mining Maximal Frequent Patterns
 - **Fial grade**: 4.038/4.30 (Summa Cum Laude)
 
-### Bachelor, University of Dhaka, Bangladesh [2004 - 2008]
+### Bachelor, University of Dhaka, Bangladesh [2004-2008]
 - **Major**: Computer Science with minor in mathematics and statistics.
 - **Final grade**: First class honours.
 
@@ -44,6 +44,4 @@ I'm always open for potential research and freelance opportunities:
 
 - **Email**: [rezaul.karim.fit@gmail.com](rezaul.karim.fit@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/karimrwth/](https://www.linkedin.com/in/karimrwth/)
-- **Twitter**: [https://twitter.com/asifkarim85](https://twitter.com/asifkarim85)
 - **GitHub**: [https://github.com/rezacsedu](https://github.com/rezacsedu)
-
