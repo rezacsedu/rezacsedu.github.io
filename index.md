@@ -1,4 +1,4 @@
-## About Me
+## Whom am I?
 
 <img class="profile-picture" src="img/1664312512000.jpg" width="200">
 
@@ -26,24 +26,24 @@ Opinions are mine, not my employer's!
 ## Academic background
 
 #### PhD, RWTH Aachen University, Germany [2017 - 2021]
-- Thesis title: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning
-- Supervisor: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
-- Dissertation grade: Summa Cum Laude.
+- **Thesis title**: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning
+- **Supervisor**: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
+- **Dissertation grade**: Summa Cum Laude.
 
 ### Master of Engineering, Kyung Hee University, Korea [2010 - 2012]
-- Major: in data mining and knowledge discovery with minor in AI and cryptography
-- Master thesis title: Privacy Preserving Mining Maximal Frequent Patterns in Transactional Databases
-- Fial grade: 4.038/4.30 (Summa Cum Laude)
-- Supervisor: Prof. Dr. Byeong-Soo Jeong
+- **Major**: Data mining and knowledge discovery with minor in AI and cryptography
+- **Master thesis title**: Privacy Preserving Mining Maximal Frequent Patterns
+- **Fial grade**: 4.038/4.30 (Summa Cum Laude)
 
 ### Bachelor, University of Dhaka, Bangladesh [2004 - 2008]
-- Major: Computer Science with minor in mathematics and statistics.
-- Final grade: First class honours.
+- **Major**: Computer Science with minor in mathematics and statistics.
+- **Final grade**: First class honours.
 
 ### How to reach me?
 I'm always open for potential research and freelance opportunities: 
 
-- Email: rezaul.karim.fit@gmail.com
-- LinkedIn: https://www.linkedin.com/in/karimrwth/ 
-- Twitter: https://twitter.com/asifkarim85 
+- **Email**: rezaul.karim.fit@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/karimrwth/ 
+- **Twitter**: https://twitter.com/asifkarim85 
+- **GitHub**: https://github.com/rezacsedu
 
