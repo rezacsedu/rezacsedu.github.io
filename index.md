@@ -1,20 +1,20 @@
-## Whom am I?
+## About Me!
 
 <img class="profile-picture" src="img/1664312512000.jpg" width="200">
 
 Hello there! I'm a Sr. Data Scientist at Fraunhofer FIT and a Postdoc at RWTH Aachen University, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! 
 
-Besides, I received the best paper (NLP) award at a top data science conference. As the recognition, I won the prestigious ICT Young Researcher Award 2020 for my significant contributions to ICT-related research. 
+I received the best paper (NLP) award at a top data science conference. And I won the prestigious **ICT Young Researcher Award 2020** for my significant contributions to ICT-related research. 
 
 - I'm a technology lover. I love applied machine learning and explainable AI (XAI). 
 - I love learning, mentoring, and coding! 
 - I wrote several machine learning & data engineering [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I advocate and ecourage reprodcuable research. I loving sharing my codes and implementations on GitHub! 
 
-## Disclaimers: 
+### Disclaimers: 
 Opinions are mine, not my employer's! 
 
-## Research interests
+### Research interests
 
 - Data science 
 - Deep learning
@@ -23,7 +23,7 @@ Opinions are mine, not my employer's!
 - Bioinformatics
 - Applied machine learning. 
 
-## Academic background
+### Academic background
 
 #### PhD, RWTH Aachen University, Germany [2017 - 2021]
 - **Thesis title**: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning
@@ -39,7 +39,7 @@ Opinions are mine, not my employer's!
 - **Major**: Computer Science with minor in mathematics and statistics.
 - **Final grade**: First class honours.
 
-### How to reach me?
+## How to reach me?
 I'm always open for potential research and freelance opportunities: 
 
 - **Email**: rezaul.karim.fit@gmail.com
