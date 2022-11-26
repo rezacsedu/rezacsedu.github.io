@@ -1,6 +1,6 @@
 ## About Me!
 
-<img class="profile-picture" src="img/1664312512000.jpg" width="200">
+<img class="profile-picture" src="img/1664312512000.jpg" width="150">
 
 Hello there! I'm a Sr. Data Scientist at Fraunhofer FIT and a Postdoc at RWTH Aachen University, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! 
 
