@@ -9,7 +9,7 @@
 - I'm a technology lover. I love applied machine learning and explainable AI (XAI). 
 - I love learning, mentoring, and coding! 
 - I wrote several machine learning & data engineering [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
-- I advocate and ecourage reprodcuable research. I loving sharing my codes and implementations on GitHub! 
+- I loving sharing my codes and implementations on GitHub! 
 
 ### Disclaimers: 
 Opinions are mine, not my employer's! 
