@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [mo.behery@gmail.com](mailto:mo.behery@gmail.com)
+* Email: [rezaul.karim.fit@gmail.com](mailto:rezaul.karim.fit@gmail.com)
 
-<!-- * Phone: [+91-123123](tel:+91-123123) -->
+<!-- * Phone: [+49-15759685418](tel:+49-15759685418) -->
 
 ---
 
@@ -22,6 +22,6 @@ is_contact: true
 
 ## Social
 
-1. [Github](https://github.com/Behery)
-2. [Linkedin](https://linkedin.com/in/mo-behery)
-3. [Stackoverflow](https://stackexchange.com/users/119676)
+- **Email**: [rezaul.karim.fit@gmail.com](rezaul.karim.fit@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/karimrwth/](https://www.linkedin.com/in/karimrwth/)
+- **GitHub**: [https://github.com/rezacsedu](https://github.com/rezacsedu)
