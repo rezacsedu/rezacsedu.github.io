@@ -1,6 +1,5 @@
 ## Teaching
-I have contributed in preparation of lectures, exercise sessions, providing lectures, exam grading, conducting lab sessions, and
-supervising seminar topics for several courses offere dby Prof.Dr. Stefan Decker atRWTH AachenUniversity, Germany (and others):
+<p style='text-align: justify;'>I have contributed in preparation of lectures, exercise sessions, providing lectures, exam grading, conducting lab sessions, and supervising seminar topics for several courses offered by Prof. Dr. Stefan Decker at RWTH Aachen University, Germany:</p>
 
 - Casual Lecturer for Master in Medical Data Science, RWTH Aachen Academy, 21/22 & 22/23
 - Semantic Web (Winter semester, 22/23)
@@ -14,7 +13,7 @@ supervising seminar topics for several courses offere dby Prof.Dr. Stefan Decker
 - Object-Oriented Programming with Java (Winter, 2015/2016), University of Galway, Ireland. 
 
 ## Supervised theses:
-Together with Prof. Dr. Stefan Decker, I supervised following bachelor and master theses at RWTH Aachen University, Germany:
+<p style='text-align: justify;'>Together with Prof. Dr. Stefan Decker, I supervised following bachelor and master theses at RWTH Aachen University, Germany:</p>
 
 - FAIR Approach for Improving Discoverability and Reusability of Research Data (Bachelor thesis, 2017)
 - Using Deep Neural Networks and Copy Number Variations for Cancer Detection (Master thesis, 2018)
@@ -28,7 +27,7 @@ Together with Prof. Dr. Stefan Decker, I supervised following bachelor and maste
 - A Meta learning-based Approach for Automating Image Analysis in Cell Biology (Master thesis, 2022).
 
 ## Research talks
-I have participated several international conferences and gave research talks:
+<p style='text-align: justify;'>I have participated several international conferences and gave research talks:</p>
 
 - Research talk on Explainable AI at University of Siegen, Germany, November, 2021. 
 - Presented papertitled "Drug-Drug InteractionPredictionBased onKnowledgeGraph Embeddings and Convolutional-LSTM Network" at 10th ACM International Conference on Bioinformatics and Computational Biology (ACM-BCB), Niagara Falls, USA, September 7-10, 2019. 
