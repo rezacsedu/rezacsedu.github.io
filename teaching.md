@@ -10,7 +10,7 @@
 - Methods for Data Reusability (Winter semester, 2019/2020)
 - Knowledge Graphs Praktikum (Spring semester, 2019)
 - Knowledge Graphs Praktikum (Spring semester, 2018)
-- Object-Oriented Programming with Java (Winter, 15/16), University of Galway, Ireland. 
+- Object-Oriented Programming with Java (2015/16), University of Galway, Ireland. 
 
 ## Supervised theses:
 <p style='text-align: justify;'>Together with Prof. Dr. Stefan Decker, I supervised following bachelor and master theses at RWTH Aachen University, Germany:</p>
