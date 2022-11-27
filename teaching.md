@@ -31,7 +31,7 @@ Together with Prof. Dr. Stefan Decker, I supervised following bachelor and maste
 I have participated several international conferences and gave research talks:
 
 - Research talk on Explainable AI at University of Siegen, Germany, November, 2021. 
-- Presented papertitled "Drug-Drug InteractionPredictionBased onKnowledgeGraph Embeddings and Convolutional-LSTM Network" at 10th ACM International Conference on Bioinformatics and Computational Biology (ACM-BCB), Niagara Falls, New York, USA, September 7-10, 2019. 
+- Presented papertitled "Drug-Drug InteractionPredictionBased onKnowledgeGraph Embeddings and Convolutional-LSTM Network" at 10th ACM International Conference on Bioinformatics and Computational Biology (ACM-BCB), Niagara Falls, USA, September 7-10, 2019. 
 - Presented paper titled "Cancer Risk and Type Prediction Based on CNVs with LSTM and Deep Belief Network" at 1st Artificial Intelligence International Conference (A2IC'2018), November 21-23, Barcelona, Spain. 
 - Presented paper titled "OncoNetExplainer: Explainable Predictions of Cancer Types Based on Gene Expression Data" at 19th IEEE International Conference on  Bioinformatics and Bio-engineering (BIBE'2019), October 27-30, 2019. 
 - Presented paper titled "DeepCOVIDExplainer: Explainable COVID-19 Diagnosis from Chest X-ray Images" at 14th International Conference on Bioinformatics and Biomedicine (BIBM'2020), Seoul, South Korea, December 16-19, 2020. 
