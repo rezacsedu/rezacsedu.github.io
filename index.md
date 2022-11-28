@@ -20,23 +20,6 @@ Opinions are mine, not my employer's!
 - Knowledge graphs 
 - Bioinformatics.
 
-## Professional career
-
-### Data Scientist => Senior Data Scientist [2017-~]
-- Fraunhofer FIT, Sankt Augustin, Germany. 
-
-### Postdoctoral Researcher [2021-~]
-- RWTH Aachen University, Aachen, Germany. 
-
-### Machine Learning Engineer [2015 - 2017]
-- Insight Centre for Data Analytics, Galway, Ireland.
-
-### Senior Software Engineer => Lead Software Engineer [2012-2015]
--  SAMSUNG ELECTRONICS, South Korea.
-
-### Software Engineer [2008-2010]
-- I2Soft Technology, Dhaka, Bangladesh.
-
 ## Academic background
 
 #### PhD, RWTH Aachen University, Germany [2017-2021]
@@ -53,9 +36,19 @@ Opinions are mine, not my employer's!
 - **Major**: Computer Science with minor in mathematics and statistics.
 - **Final grade**: First class honours.
 
-## How to reach me?
-I'm always open for potential research and freelance opportunities: 
+## Professional career
 
-- **Email**: [rezaul.karim.fit@gmail.com](rezaul.karim.fit@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/karimrwth/](https://www.linkedin.com/in/karimrwth/)
-- **GitHub**: [https://github.com/rezacsedu](https://github.com/rezacsedu)
+#### Data Scientist => Senior Data Scientist [2017-~]
+- Fraunhofer FIT, Sankt Augustin, Germany. 
+
+#### Postdoctoral Researcher [2021-~]
+- RWTH Aachen University, Aachen, Germany. 
+
+#### Machine Learning Engineer [2015 - 2017]
+- Insight Centre for Data Analytics, Galway, Ireland.
+
+#### Senior Software Engineer => Lead Software Engineer [2012-2015]
+-  SAMSUNG ELECTRONICS, South Korea.
+
+#### Software Engineer [2008-2010]
+- I2Soft Technology, Dhaka, Bangladesh.
