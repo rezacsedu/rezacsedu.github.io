@@ -1,6 +1,6 @@
 Research projects:
 =================
-I had been involved in several projects, where I played a variety of roles, ranging from leading taskss and work packages to application development:
+I had been involved in a number of projects. My activities ranges from leading tasks and work packages to application development:
 
 - **Leading the Explainable AI (XAI) department**: developing data + knowledge-driven explainable AI solutions using applied machine learning, natural language processing (NLP), and semantic web technologies. 
 - **Crypto4GraphAI**: Developing privacy-preserving machine/deep learning primitives for cybersecurity and supply chain knowledge graphs.
