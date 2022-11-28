@@ -22,6 +22,8 @@ nav:
    link: "cv.pdf"
  - name: "Awards"
    link: "awards"
+ - name: "Books"
+   link: "books"
  - name: "Teaching"
    link: "teaching"
  - name: "Grants"
