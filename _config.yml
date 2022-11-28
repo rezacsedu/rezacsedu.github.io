@@ -26,8 +26,6 @@ nav:
    link: "books"
  - name: "Teaching"
    link: "teaching"
- - name: "Grants"
-   link: "grants"
  - name: "Projects"
    link: "projects"
  - name: "Reviews"
