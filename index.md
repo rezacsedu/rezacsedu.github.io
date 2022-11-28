@@ -1,40 +1,38 @@
 ## About Me!
 <img class="profile-picture" src="img/1664312512000.jpg" width="100">
 
-<p style='text-align: justify;'> I'm a Senior Data Scientist at Fraunhofer FIT and Postdoc at RWTH Aachen University. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of <b> Prof. Dr. Stefan Decker</b>, with distinction (Summan Cum Laude)! </p>
+<p style='text-align: justify;'> I'm a Senior Data Scientist at Fraunhofer FIT and Postdoc at RWTH Aachen University. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! </p>
 
-<p style='text-align: justify;'>I received a best paper award at 9th IEEE International Conference on Data Science & Advanced Analytics (DSAA'2020), Sydney, Australia, 2020. I also won the prestigious RWTH Aachen University <b>ICT Young Researcher Award</b> in 2020, for my contributions to ICT-related research. </p>
+<p style='text-align: justify;'>I received a best paper award at 9th IEEE International Conference on Data Science & Advanced Analytics (DSAA'2020), Sydney, Australia, 2020. I also won the prestigious RWTH Aachen University ICT Young Researcher Award in 2020, for my contributions to ICT-related research. </p>
 
 - I love applied machine learning and explainable AI (XAI). 
 - I love learning, mentoring, and coding! 
 - I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I loving sharing my codes on GitHub! 
 
-## Disclaimers: 
+#### Disclaimers: 
 Opinions are mine, not my employer's! 
 
 ## Academic background
-
 #### PhD, RWTH Aachen University, Germany [2017-2021]
-- **Thesis title**: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning 
-- **Supervisors**: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
-- **Dissertation grade**: Summa Cum Laude.
+- Thesis title: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning 
+- Supervisors: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
+- Dissertation grade: Summa Cum Laude.
 
 ### Master of Engineering, Kyung Hee University, Korea [2010-2012]
-- **Major**: Data mining and knowledge discovery with minor in AI and cryptography
-- **Master thesis**: Privacy Preserving Mining Maximal Frequent Patterns
-- **Fial grade**: 4.038/4.30 (Summa Cum Laude)
+- Major: Data mining and knowledge discovery with minor in AI and cryptography
+- Master thesis: Privacy Preserving Mining Maximal Frequent Patterns
+- Fial grade: 4.038/4.30 (Summa Cum Laude)
 
 ### Bachelor, University of Dhaka, Bangladesh [2004-2008]
-- **Major**: Computer Science with minor in mathematics and statistics.
-- **Final grade**: First class honours.
+- Major: Computer Science with minor in mathematics and statistics.
+- Final grade: First class honours.
 
 ## Professional career
-
-#### Data Scientist => Senior Data Scientist [2017- ]
+#### Data Scientist => Senior Data Scientist [2017~]
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
-#### Postdoctoral Researcher [2021-]
+#### Postdoctoral Researcher [2021~]
 - RWTH Aachen University, Aachen, Germany. 
 
 #### Machine Learning Engineer [2015-2017]
