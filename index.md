@@ -1,8 +1,7 @@
 ## About Me!
-
 <img class="profile-picture" src="img/1664312512000.jpg" width="100">
 
-<p style='text-align: justify;'> I'm a Senior Data Scientist at Fraunhofer FIT and Postdoc at RWTH Aachen University. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of <b>Prof. Dr. Stefan Decker</b>, with distinction (Summan Cum Laude)! </p>
+<p style='text-align: justify;'> I'm a Senior Data Scientist at Fraunhofer FIT and Postdoc at RWTH Aachen University. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of <b> Prof. Dr. Stefan Decker</b>, with distinction (Summan Cum Laude)! </p>
 
 <p style='text-align: justify;'>I received a best paper award at 9th IEEE International Conference on Data Science & Advanced Analytics (DSAA'2020), Sydney, Australia, 2020. I also won the prestigious RWTH Aachen University <b>ICT Young Researcher Award</b> in 2020, for my contributions to ICT-related research. </p>
 
@@ -11,17 +10,34 @@
 - I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I loving sharing my codes on GitHub! 
 
-### Disclaimers: 
+## Disclaimers: 
 Opinions are mine, not my employer's! 
 
-### Research interests
+## Research interests
 
 - Machine/deep learning
 - Explainable AI
 - Knowledge graphs 
 - Bioinformatics.
 
-### Academic background
+## Professional career
+
+### Data Scientist => Senior Data Scientist [2017-~]
+- Fraunhofer FIT, Sankt Augustin, Germany. 
+
+### Postdoctoral Researcher [2021-~]
+- RWTH Aachen University, Aachen, Germany. 
+
+### Machine Learning Engineer [2015 - 2017]
+- Insight Centre for Data Analytics, Galway, Ireland.
+
+### Senior Software Engineer => Lead Software Engineer [2012-2015]
+-  SAMSUNG ELECTRONICS, South Korea.
+
+### Software Engineer [2008-2010]
+- I2Soft Technology, Dhaka, Bangladesh.
+
+## Academic background
 
 #### PhD, RWTH Aachen University, Germany [2017-2021]
 - **Thesis title**: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning
