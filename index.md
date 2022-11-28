@@ -13,13 +13,6 @@
 ## Disclaimers: 
 Opinions are mine, not my employer's! 
 
-## Research interests
-
-- Machine/deep learning
-- Explainable AI
-- Knowledge graphs 
-- Bioinformatics.
-
 ## Academic background
 
 #### PhD, RWTH Aachen University, Germany [2017-2021]
@@ -29,7 +22,7 @@ Opinions are mine, not my employer's!
 
 ### Master of Engineering, Kyung Hee University, Korea [2010-2012]
 - **Major**: Data mining and knowledge discovery with minor in AI and cryptography
-- **Master thesis title**: Privacy Preserving Mining Maximal Frequent Patterns
+- **Master thesis**: Privacy Preserving Mining Maximal Frequent Patterns
 - **Fial grade**: 4.038/4.30 (Summa Cum Laude)
 
 ### Bachelor, University of Dhaka, Bangladesh [2004-2008]
