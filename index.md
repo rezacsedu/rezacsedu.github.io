@@ -5,7 +5,7 @@
 
 <p style='text-align: justify;'>I received a best paper award at 9th IEEE International Conference on Data Science & Advanced Analytics (DSAA'2020), Sydney, Australia, 2020. I also won the prestigious RWTH Aachen University ICT Young Researcher Award in 2020, for my contributions to ICT-related research. </p>
 
-- I love applied machine learning and explainable AI (XAI). 
+- I'm passionate about applied machine learning, knowledge graphs, and explainable AI (XAI). 
 - I love learning, mentoring, and coding! 
 - I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I loving sharing my codes on GitHub! 
@@ -13,22 +13,22 @@
 #### Disclaimers: 
 Opinions are mine, not my employer's! 
 
-## Academic background
-#### PhD, RWTH Aachen University, Germany [2017-2021]
+## Academic Profile
+#### Ph.D., RWTH Aachen University, Germany [2017-2021]
 - Thesis title: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning 
 - Supervisors: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
 - Dissertation grade: Summa Cum Laude.
 
-### Master of Engineering, Kyung Hee University, Korea [2010-2012]
+### M.Sc., Kyung Hee University, South Korea [2010-2012]
 - Major: Data mining and knowledge discovery with minor in AI and cryptography
 - Master thesis: Privacy Preserving Mining Maximal Frequent Patterns
 - Fial grade: 4.038/4.30 (Summa Cum Laude)
 
-### Bachelor, University of Dhaka, Bangladesh [2004-2008]
+### B.Sc., University of Dhaka, Bangladesh [2004-2008]
 - Major: Computer Science with minor in mathematics and statistics.
 - Final grade: First class honours.
 
-## Professional career
+## Professional Career
 #### Data Scientist => Senior Data Scientist [2017~]
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
@@ -39,7 +39,7 @@ Opinions are mine, not my employer's!
 - Insight Centre for Data Analytics, Galway, Ireland.
 
 #### Senior Software Engineer => Lead Software Engineer [2012-2015]
--  SAMSUNG ELECTRONICS, South Korea.
+-  Samsung Electronics, South Korea.
 
 #### Software Engineer [2008-2010]
 - I2Soft Technology, Dhaka, Bangladesh.
