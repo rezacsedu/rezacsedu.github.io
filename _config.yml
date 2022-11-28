@@ -20,6 +20,8 @@ nav:
    link: "/"
  - name: "Resume"
    link: "cv.pdf"
+ - name: "Awards"
+   link: "awards"
  - name: "Teaching"
    link: "teaching"
  - name: "Projects"
