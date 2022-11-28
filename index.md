@@ -5,7 +5,7 @@
 
 <p style='text-align: justify;'>I received a best paper award at 9th IEEE International Conference on Data Science & Advanced Analytics (DSAA'2020), Sydney, Australia, 2020. I also won the prestigious RWTH Aachen University <b>ICT Young Researcher Award</b> in 2020, for my contributions to ICT-related research. </p>
 
-- I'm a technology lover. I love applied machine learning and explainable AI (XAI). 
+- I love applied machine learning and explainable AI (XAI). 
 - I love learning, mentoring, and coding! 
 - I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 - I loving sharing my codes on GitHub! 
@@ -16,7 +16,7 @@ Opinions are mine, not my employer's!
 ## Academic background
 
 #### PhD, RWTH Aachen University, Germany [2017-2021]
-- **Thesis title**: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning
+- **Thesis title**: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning 
 - **Supervisors**: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
 - **Dissertation grade**: Summa Cum Laude.
 
@@ -31,13 +31,13 @@ Opinions are mine, not my employer's!
 
 ## Professional career
 
-#### Data Scientist => Senior Data Scientist [2017-~]
+#### Data Scientist => Senior Data Scientist [2017- ]
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
-#### Postdoctoral Researcher [2021-~]
+#### Postdoctoral Researcher [2021-]
 - RWTH Aachen University, Aachen, Germany. 
 
-#### Machine Learning Engineer [2015 - 2017]
+#### Machine Learning Engineer [2015-2017]
 - Insight Centre for Data Analytics, Galway, Ireland.
 
 #### Senior Software Engineer => Lead Software Engineer [2012-2015]
