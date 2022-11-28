@@ -33,7 +33,7 @@ hr {
  */
 
 #author-name {
-    font-size: 30px;
+    font-size: 35px;
     color: #272727;
     display: inline-block;
 }
@@ -83,23 +83,23 @@ hr {
 
 /* Mobile */
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
     }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 750px) {
     .container {
-        max-width: 83%;
+        max-width: 90%;
     }
     .navbar-ul {
         margin-top: 5px;
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
 	.navbar {
 		text-align: center;
 		padding: 50px 0px 0px 0px;
