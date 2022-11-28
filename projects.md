@@ -6,4 +6,4 @@ I had been involved in a number of projects, where I was assigned to a varietry 
 - **Crypto4GraphAI**: Developing privacy-preserving machine/deep learning primitives for cybersecurity and supply chain knowledge graphs.
 - **DEMETER**: Developing quality assessment tools for structured & linked data and predictive modelling (e.g., yield prediction and detection of harmful insects, weed, and pest from UAV images) for smart precision farming.
 - **NFDI4DataScience**: Data integration and construction of biomedical knowledge graphs and representation learning on knowledge graphs.
-- **Personal Health Train**: distributed & privacy-preserving analytics on healthcare data. 
+- **Personal Health Train**: distributed analytics on healthcare data and developing privacy-preserving analytics solutions covering bioimaging and NLP use cases. 
