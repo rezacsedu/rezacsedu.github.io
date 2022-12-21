@@ -29,16 +29,16 @@ Opinions are mine, not my employer's!
 - Final grade: First class honours.
 
 ## Professional Career
-#### Senior Data Scientist [2022~]
+#### Senior Data Scientist [2023~]
 - ALDI Data & Analytics Services GmbH, Mülheim an der Ruhr, Germany. 
 
-#### Data Scientist [2017~20] -> Senior Data Scientist [2020~22]
+#### Data Scientist [2017~20] -> Sr. Data Scientist [2020~22]
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
 #### Machine Learning Engineer [2015-2017]
 - Insight Centre for Data Analytics, Galway, Ireland.
 
-#### Senior Software Engineer [2012~14] -> Lead Software Engineer [2014~15]
+#### Sr. Software Engineer [2012~14] -> Lead Engineer [2014~15]
 -  Samsung Electronics, South Korea.
 
 #### Software Engineer [2008-2010]
