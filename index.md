@@ -3,12 +3,12 @@
 
 <p style='text-align: justify;'> I'm a Senior Data Scientist at Fraunhofer FIT and Postdoc at RWTH Aachen University. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! </p>
 
-<p style='text-align: justify;'>I received a best paper award at 9th IEEE International Conference on Data Science & Advanced Analytics (DSAA'2020), Sydney, Australia, 2020. I also won the prestigious RWTH Aachen University ICT Young Researcher Award in 2020, for my contributions to ICT-related research. </p>
+<p style='text-align: justify;'>I received a best paper award at 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA'2020), Sydney, Australia, 2020. I also won the prestigious RWTH Aachen University ICT Young Researcher Award for my outstanding contributions to ICT-related research in 2020. </p>
 
-- I'm passionate about applied machine learning, knowledge graphs, and explainable AI (XAI). 
-- I love learning, mentoring, and coding! 
-- I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
+- Passionate about applied machine learning, knowledge graphs, and explainable AI (XAI). 
+- I love learning, coding, and mentoring simultaneously. 
 - I loving sharing my codes on GitHub! 
+- I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 
 #### Disclaimers: 
 Opinions are mine, not my employer's! 
