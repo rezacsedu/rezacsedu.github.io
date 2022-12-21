@@ -32,23 +32,14 @@ Opinions are mine, not my employer's!
 #### Senior Data Scientist [2022~]
 - ALDI Data & Analytics Services GmbH, Mülheim an der Ruhr, Germany. 
 
-#### Senior Data Scientist [2020-2022]
+#### Data Scientist [2017~20] -> Senior Data Scientist [2020~22]
 - Fraunhofer FIT, Sankt Augustin, Germany. 
-
-#### Data Scientist [2017-2020]
-- Fraunhofer FIT, Sankt Augustin, Germany. 
-
-#### Postdoctoral Researcher [2021~]
-- RWTH Aachen University, Aachen, Germany. 
 
 #### Machine Learning Engineer [2015-2017]
 - Insight Centre for Data Analytics, Galway, Ireland.
 
-#### Lead Software Engineer [2014-2015]
+#### Senior Software Engineer [2012~14] -> Lead Software Engineer [2014~15]
 -  Samsung Electronics, South Korea.
 
-#### Senior Software Engineer [2012-2014]
--  Samsung Electronics, South Korea.
--  
 #### Software Engineer [2008-2010]
 - I2Soft Technology, Dhaka, Bangladesh.
