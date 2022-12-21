@@ -10,7 +10,7 @@
 - I loving sharing my codes on GitHub! 
 - I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 
-**<p style="color:red">Disclaimers:</p>** opinions are mine, not my employer's! 
+**Disclaimers:** <p style="color:red"> opinions are mine, not my employer's!</p> 
 
 ## Academic Profile
 #### Ph.D., RWTH Aachen University, Germany [2017-2021]
