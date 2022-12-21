@@ -15,7 +15,7 @@ Opinions are mine, not my employer's!
 
 ## Academic Profile
 #### Ph.D., RWTH Aachen University, Germany [2017-2021]
-- Thesis title: Interpreting Black-Box Machine Learning Models with Evidence-based Decision Rules and Knowledge Graph Reasoning 
+- Thesis: Interpreting Black-Box Machine Learning Models with Decision Rules and Knowledge Graph Reasoning 
 - Supervisors: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
 - Dissertation grade: Summa Cum Laude.
 
@@ -38,8 +38,11 @@ Opinions are mine, not my employer's!
 #### Machine Learning Engineer [2015-2017]
 - Insight Centre for Data Analytics, Galway, Ireland.
 
-#### Senior Software Engineer => Lead Software Engineer [2012-2015]
+#### Lead Software Engineer [2014-2015]
 -  Samsung Electronics, South Korea.
 
+#### Senior Software Engineer [2012-2014]
+-  Samsung Electronics, South Korea.
+-  
 #### Software Engineer [2008-2010]
 - I2Soft Technology, Dhaka, Bangladesh.
