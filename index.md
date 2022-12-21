@@ -34,7 +34,7 @@ Opinions are mine, not my employer's!
 
 #### Senior Data Scientist [2020-2022]
 - Fraunhofer FIT, Sankt Augustin, Germany. 
--
+
 #### Data Scientist [2017-2020]
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
