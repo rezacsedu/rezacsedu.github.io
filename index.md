@@ -29,7 +29,13 @@ Opinions are mine, not my employer's!
 - Final grade: First class honours.
 
 ## Professional Career
-#### Data Scientist => Senior Data Scientist [2017~]
+#### Senior Data Scientist [2022~]
+- ALDI Data & Analytics Services GmbH, Mülheim an der Ruhr, Germany. 
+
+#### Senior Data Scientist [2020-2022]
+- Fraunhofer FIT, Sankt Augustin, Germany. 
+-
+#### Data Scientist [2017-2020]
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
 #### Postdoctoral Researcher [2021~]
