@@ -1,7 +1,7 @@
 ## About Me!
 <img class="profile-picture" src="img/1664312512000.jpg" width="100">
 
-<p style='text-align: justify;'> I'm a Senior Data Scientist at ALDI Data & Analytics Services GmbH, Germany. I'm also a (part-time) Postdoctoral Researcher at RWTH Aachen University. Before joining ALDI, I worked at Fraunhofer FIT as a Senior Data Scientist. I obtained my PhD degree in Computer Science from RWTH Aachen University (supervised by Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann) with distinction (Summan Cum Laude)!</p>
+<p style='text-align: justify;'> I'm a Senior Data Scientist at ALDI Data & Analytics Services GmbH, Germany. I'm also a (part-time) Postdoctoral Researcher at RWTH Aachen University, Germany. Before joining ALDI, I worked at Fraunhofer FIT as a Sr. Data Scientist. I obtained my PhD degree in Computer Science from RWTH Aachen University (supervised by Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann) with distinction (Summan Cum Laude)!</p>
   
 <p style='text-align: justify;'> I received the best application paper award at 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA'2020),  Sydney, Australia, 6-9 October 2020. I also won the prestigious RWTH Aachen University ICT Young Researcher Award for my outstanding contributions to ICT-related research in 2020. </p>
 
@@ -12,17 +12,17 @@
 ### **Disclaimers:** <span style="color:red"> opinions are mine, not my employer's!</span> 
 
 ## Academic Profile
-#### Ph.D., RWTH Aachen University, Germany [2017-2021]
+#### PhD, RWTH Aachen University, Germany [2017-2021]
 - Thesis: Interpreting Black-Box Machine Learning Models with Decision Rules and Knowledge Graph Reasoning 
 - Supervisors: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
 - Dissertation grade: Summa Cum Laude.
 
-### M.Sc., Kyung Hee University, South Korea [2010-2012]
+### MSc., Kyung Hee University, South Korea [2010-2012]
 - Major: Data mining and knowledge discovery with minor in AI and cryptography
 - Master thesis: Privacy Preserving Mining Maximal Frequent Patterns
 - Fial grade: 4.038/4.30 (Summa Cum Laude)
 
-### B.Sc., University of Dhaka, Bangladesh [2004-2008]
+### BSc., University of Dhaka, Bangladesh [2004-2008]
 - Major: Computer Science with minor in mathematics and statistics.
 - Final grade: First class honours.
 
