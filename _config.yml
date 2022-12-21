@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/beheri"
-footer_text: "Page design by Mohamed Behery"
+footer_text: ":tm: Mohamed Behery"
 
 sass:
     style: compressed
