@@ -1,7 +1,7 @@
 ## About Me!
 <img class="profile-picture" src="img/1664312512000.jpg" width="100">
 
-<p style='text-align: justify;'> I'm a Senior Data Scientist at Fraunhofer FIT and Postdoc at RWTH Aachen University. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! </p>
+<p style='text-align: justify;'> I'm a Senior Data Scientist at ALDI Data & Analytics Services GmbH and and Postdoc at RWTH Aachen University, Germany. Before that I worked as Senior Data Scientist at Fraunhofer FIT, Germany. I did my PhD in Computer Science from RWTH Aachen University, Germany under the supervision of Prof. Dr. Stefan Decker, with distinction (Summan Cum Laude)! </p>
 
 <p style='text-align: justify;'>I received the best application paper award at 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA'2020),  Sydney, Australia, 6-9 October 2020. I also won the prestigious RWTH Aachen University ICT Young Researcher Award for my outstanding contributions to ICT-related research in 2020. </p>
 
