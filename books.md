@@ -1,5 +1,5 @@
 ## Books
-I have authored several books and worked on video courses (as a first and co-author) published by Packt Publishing UK, Ltd.:
+I have authored following books and video courses published by the Packt Publishing UK, Ltd.:
 
 - Deep Learning with TensorFlow - Second Edition [link](https://www.packtpub.com/product/deep-learning-with-tensorflow-second-edition/9781788831109)
 - Java Deep Learning Projects [link](https://www.packtpub.com/product/java-deep-learning-projects/9781788997454)
