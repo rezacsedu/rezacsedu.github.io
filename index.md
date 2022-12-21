@@ -8,7 +8,7 @@
 - I'm passionate about applied ML, knowledge graphs, and explainable AI (XAI). 
 - I love learning, coding, and mentoring simultaneously. 
 - I loving sharing my codes on GitHub! 
-- I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
+- I wrote several machine learning <span style="color:red">[books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss)</span> too.
 
 ### **Disclaimers:** <span style="color:red"> opinions are mine, not my employer's!</span> 
 
