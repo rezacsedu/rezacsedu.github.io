@@ -9,8 +9,8 @@
 - I love learning, coding, and mentoring simultaneously. 
 - I wrote several machine learning <span style="color:red">[books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss)</span> too.
 
-### **Disclaimers:** <span style="color:red"> opinions are mine, not my employer's!</span> 
-
+<!-- ### **Disclaimers:** <span style="color:red"> opinions are mine, not my employer's!</span> 
+ -->
 ## Academic Profile
 #### PhD, RWTH Aachen University, Germany [2017-2021]
 - Thesis: Interpreting Black-Box Machine Learning Models with Decision Rules and Knowledge Graph Reasoning 
