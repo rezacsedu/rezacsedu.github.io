@@ -7,7 +7,7 @@
 
 - I'm passionate about applied ML, knowledge graphs, and explainable AI (XAI). 
 - I love learning, coding, and mentoring. 
-- I wrote several machine learning <span style="color:blue">[books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss)</span> too.
+- I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 
 <!-- ### **Disclaimers:** <span style="color:red"> opinions are mine, not my employer's!</span> 
  -->
@@ -31,10 +31,10 @@
 - ALDI SÜD Global Data & Analytics, Mülheim an der Ruhr, Germany. 
 
 #### Data Scientist [2017~20] -> Sr. Data Scientist [2020~22]
-- <span style="color:blue">[Fraunhofer FIT](https://www.fit.fraunhofer.de/en/business-areas/data-science-and-artificial-intelligence.html)</span>, Sankt Augustin, Germany. 
+- [Fraunhofer FIT](https://www.fit.fraunhofer.de/en/business-areas/data-science-and-artificial-intelligence.html), Sankt Augustin, Germany. 
 
 #### Machine Learning Engineer [2015-2017]
-- <span style="color:blue">[Insight Centre for Data Analytics](https://www.insight-centre.org/)</span>, Galway, Ireland.
+- [Insight Centre for Data Analytics](https://www.insight-centre.org/), Galway, Ireland.
 
 #### Sr. Software Engineer [2012~14] -> Lead Engineer [2014~15]
 -  Samsung Electronics, South Korea.
