@@ -10,7 +10,6 @@ ___
 - I love learning, coding, and mentoring. 
 - I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 
-___
 ## Academic Profile:
 ___
 **Ph.D., RWTH Aachen University, Germany [2017-2021]**
@@ -27,7 +26,6 @@ ___
 - Major: Computer Science & Engineering with minor in mathematics and statistics.
 - Final grade: First class honours.
 
-___
 ## Professional Career: 
 ___
 **Senior Data Scientist [2023~]**
