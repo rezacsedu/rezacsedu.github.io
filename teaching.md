@@ -1,4 +1,4 @@
-## Teaching
+## Teaching activities
 <p style='text-align: justify;'> I've contributed in preparation of lectures, conducting exercises & lab sessions, grading, and supervising seminar topics for several courses offered by Prof. Dr. Stefan Decker at RWTH Aachen University, Germany:</p>
 
 - Master in Medical Data Science, RWTH Aachen Academy, 21/22 & 22/23
@@ -12,7 +12,7 @@
 - Knowledge Graphs Praktikum (Spring semester, 2018)
 - Object-Oriented Programming with Java (2015/16), University of Galway, Ireland. 
 
-## Supervised theses:
+## Thesis supervision
 <p style='text-align: justify;'>Together with Prof. Dr. Stefan Decker, I supervised following theses at RWTH Aachen University, Germany:</p>
 
 - <p style='text-align: justify;'> FAIR Approach for Improving Discoverability and Reusability of Research Data (Bachelor thesis, 2017)</p>
