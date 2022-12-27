@@ -1,5 +1,4 @@
-Research projects:
-=================
+## Research projects
 I had been involved in a number of projects, where I was assigned to a varietry of roles that ranging from leading tasks and work packages to application development:
 
 - **Leading the Explainable AI (XAI) department**: developing data + knowledge-driven explainable AI solutions using applied machine learning, natural language processing (NLP), and semantic web technologies. 
