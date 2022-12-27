@@ -1,4 +1,4 @@
-## Research talks:
+## Research talks
 <p style='text-align: justify;'>I have participated several international conferences and gave research talks:</p>
 
 - <p style='text-align: justify;'> Research talk on Explainable AI at University of Siegen, Germany, November, 2021.</p> 
