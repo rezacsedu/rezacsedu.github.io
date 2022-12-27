@@ -30,6 +30,8 @@ nav:
    link: "talks"
  - name: "Projects"
    link: "projects"
+ - name: "Training"
+   link: "training"
  - name: "Reviews"
    link: "reviews"
  - name: "Contact"
