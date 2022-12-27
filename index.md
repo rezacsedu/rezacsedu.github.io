@@ -10,7 +10,7 @@ ___
 - I love learning, coding, and mentoring. 
 - I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 
-## Academic Profile:
+## Academic profile
 ___
 **Ph.D., RWTH Aachen University, Germany [2017-2021]**
 - Thesis: Interpreting Black-Box Machine Learning Models with Decision Rules and Knowledge Graph Reasoning 
@@ -26,7 +26,7 @@ ___
 - Major: Computer Science & Engineering with minor in mathematics and statistics.
 - Final grade: First class honours.
 
-## Professional Career: 
+## Professional career
 ___
 **Senior Data Scientist [2023~]**
 - ALDI SÜD (Global Data & Analytics), Mülheim an der Ruhr, Germany. 
