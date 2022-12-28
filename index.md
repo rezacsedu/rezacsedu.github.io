@@ -40,5 +40,5 @@ ___
 **Sr. Software Engineer [2012~2014] -> Lead Engineer [2014~2015]**
 -  Samsung Electronics Ltd., South Korea.
 
-**Software Engineer [2008-2010]**
-- I2Soft Technology, Dhaka, Bangladesh.
+**Lecturer [2009-2010]**
+- Department of Computer Science, Manarat International University, Dhaka, Bangladesh.
