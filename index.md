@@ -32,10 +32,10 @@ ___
 - ALDI SÜD (Global Data & Analytics), Mülheim an der Ruhr, Germany. 
 
 **Data Scientist [2017~2020] -> Sr. Data Scientist [2020~2022]**
-- [Fraunhofer FIT](https://www.fit.fraunhofer.de/en/business-areas/data-science-and-artificial-intelligence.html), Sankt Augustin, Germany. 
+- Fraunhofer FIT, Sankt Augustin, Germany. 
 
 **ML Engineer [2015-2017]**
-- [Insight Centre for Data Analytics](https://www.insight-centre.org/), University of Galway, Galway, Ireland. 
+- Insight Centre for Data Analytics, University of Galway, Galway, Ireland. 
 
 **Sr. Software Engineer [2012~2014] -> Lead Engineer [2014~2015]**
 -  Samsung Electronics Ltd., South Korea.
