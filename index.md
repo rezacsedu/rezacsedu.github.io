@@ -31,6 +31,9 @@ ___
 **Senior Data Scientist [2023~]**
 - ALDI SÜD (Global Data & Analytics), Mülheim an der Ruhr, Germany. 
 
+**Postdoctoral Researcher [2021~]**
+- Computer Science 5 - Information Systems & Databases, RWTH Aachen University, Germany  
+
 **Data Scientist [2017~2020] -> Sr. Data Scientist [2020~2022]**
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
