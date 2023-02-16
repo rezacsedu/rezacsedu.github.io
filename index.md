@@ -4,7 +4,7 @@ ___
 
 <p style='text-align: justify;'> I'm a Senior Data Scientist at ALDI Data & Analytics Services GmbH, Mülheim, Germany. I'm also a (part-time) Postdoc at RWTH Aachen University. Before joining ALDI, I worked as a Senior Data Scientist at Fraunhofer FIT, Germany. I obtained my PhD in Computer Science from RWTH Aachen University, with distinction (Summan Cum Laude).</p>
   
-<p style='text-align: justify;'> I received the best application paper award at 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA),  Sydney, Australia, 6-9 October 2020. Also, I'm the first Asian student to receive the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research.</p>
+<p style='text-align: justify;'> I received the best application paper award at 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA),  Sydney, Australia, 6-9 October 2020. Also, I received the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research.</p>
 
 - I'm passionate about applied ML, NLP, knowledge graphs, and explainable AI (XAI). 
 - I love learning, coding, and mentoring. 
@@ -31,7 +31,7 @@ ___
 **Senior Data Scientist [2023~]**
 - ALDI Data & Analytics Services GmbH, Mülheim an der Ruhr, Germany. 
 
-**Postdoctoral Researcher [2021~]**
+**Postdoctoral Researcher [2021~2022]**
 - Computer Science 5 - Information Systems & Databases, RWTH Aachen University, Germany  
 
 **Data Scientist [2017~2020] -> Sr. Data Scientist [2020~2022]**
