@@ -26,19 +26,19 @@ ___
 
 ## PROFESSIONAL CAREER
 ___
-**Senior Data Scientist [2023~]**
+**Senior Data Scientist [2023-]**
 - ALDI Data & Analytics Services GmbH, Mülheim an der Ruhr, Germany. 
 
-**Postdoctoral Researcher [2021~2022]**
+**Postdoctoral Researcher [2021-2022]**
 - Computer Science 5 - Information Systems & Databases, RWTH Aachen University, Germany  
 
-**Data Scientist [2017~2020] -> Sr. Data Scientist [2020~2022]**
+**Data Scientist [2017~2020] -> Sr. Data Scientist [2020-2022]**
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
 **ML Engineer [2015-2017]**
 - Insight Centre for Data Analytics, University of Galway, Galway, Ireland. 
 
-**Sr. Software Engineer [2012~2014] -> Lead Engineer [2014~2015]**
+**Sr. Software Engineer [2012-2014] -> Lead Engineer [2014-2015]**
 -  Samsung Electronics Ltd., South Korea.
 
 **Lecturer [2009-2010]**
