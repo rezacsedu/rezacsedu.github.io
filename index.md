@@ -18,10 +18,10 @@ ___
 **MSc., Kyung Hee University, South Korea [2010-2012]**
 - Major: Data mining and knowledge discovery with minor in AI and cryptography
 - Thesis: Privacy Preserving Mining of Maximal Frequent Patterns in Transactional Databases
-- Final grade: 4.038/4.30 (Summa Cum Laude)
+- Final grade: 4.038/4.30 (Summa Cum Laude).
 
 **BSc., University of Dhaka, Bangladesh [2004-2008]**
-- Major: Computer Science & Engineering with minor in mathematics and statistics.
+- Major: Computer Science & Engineering with minor in mathematics and statistics
 - Final grade: First class honours.
 
 ### PROFESSIONAL CAREER
