@@ -1,14 +1,13 @@
-___
 ### ABOUT ME!
 ___
 <img class="profile-picture" src="img/1664312512000.jpg" width="100">
 
-<p style='text-align: justify;'> I'm a Senior Data Scientist at ALDI SÜD Data & Analytics Services GmbH, Mülheim, Germany. Before joining ALDI, I worked as a Senior Data Scientist at Fraunhofer FIT, Germany. I obtained my PhD in Computer Science from RWTH Aachen University, with distinction (Summan Cum Laude). I received the best application paper award at 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA),  Sydney, Australia, 6-9 October 2020. Besides, I received the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research.</p>
+<p style='text-align: justify;'> I'm a Senior Data Scientist at ALDI SÜD Data & Analytics Services GmbH, Mülheim, Germany. Before joining ALDI, I worked as a Senior Data Scientist at Fraunhofer FIT, Germany. I obtained my PhD in Computer Science from RWTH Aachen University, with distinction (Summan Cum Laude). I received the best application paper award at 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, Australia, 6-9 October 2020. Besides, I received the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research.</p>
 
 - I'm passionate about applied ML, NLP, knowledge graphs, and explainable AI (XAI). 
 - I love learning, coding, and mentoring. 
 - I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
-___
+
 ### ACADEMIC CAREER
 ___
 **Ph.D., RWTH Aachen University, Germany [2017-2021]**
@@ -24,7 +23,7 @@ ___
 **BSc., University of Dhaka, Bangladesh [2004-2008]**
 - Major: Computer Science & Engineering with minor in mathematics and statistics.
 - Final grade: First class honours.
-___
+
 ### PROFESSIONAL CAREER
 ___
 **Senior Data Scientist [2023-]**
