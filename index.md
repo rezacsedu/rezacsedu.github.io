@@ -15,12 +15,12 @@ ___
 - Supervisor: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
 - Dissertation grade: Summa Cum Laude.
 
-**MSc., Kyung Hee University, South Korea [2010-2012]**
+**M.Sc., Kyung Hee University, South Korea [2010-2012]**
 - Major: Data mining and knowledge discovery with minor in AI and cryptography
 - Thesis: Privacy Preserving Mining of Maximal Frequent Patterns in Transactional Databases
 - Final grade: 4.038/4.30 (Summa Cum Laude).
 
-**BSc., University of Dhaka, Bangladesh [2004-2008]**
+**B.Sc., University of Dhaka, Bangladesh [2004-2008]**
 - Major: Computer Science & Engineering with minor in mathematics and statistics
 - Final grade: First class honours.
 
@@ -32,7 +32,7 @@ ___
 **Postdoctoral Researcher [2021-2022]**
 - Computer Science 5 - Information Systems & Databases, RWTH Aachen University, Germany  
 
-**Data Scientist [2017~2020] -> Sr. Data Scientist [2020-2022]**
+**Data Scientist [2017-2020] -> Sr. Data Scientist [2020-2022]**
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
 **ML Engineer [2015-2017]**
