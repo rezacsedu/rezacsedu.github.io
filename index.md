@@ -2,7 +2,7 @@
 ___
 <img class="profile-picture" src="img/1664312512000.jpg" width="100">
 
-<p style='text-align: justify;'> I'm a Senior Data Scientist at ALDI SÜD Data & Analytics Services GmbH, Mülheim, Germany. Before joining ALDI, I worked as a Senior Data Scientist at Fraunhofer FIT, Germany. I obtained my PhD in Computer Science from RWTH Aachen University, with distinction (Summan Cum Laude). I received the best application paper award at 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, Australia, 6-9 October 2020. Besides, I received the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research.</p>
+<p style='text-align: justify;'> I'm a Senior Data Scientist at ALDI SÜD Data & Analytics Services GmbH, Mülheim, Germany. Before joining ALDI, I worked as a Senior Data Scientist at Fraunhofer FIT, Germany. I obtained my PhD in Computer Science from RWTH Aachen University, with distinction (Summa Cum Laude). I received the best application paper award at the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, Australia, 6-9 October 2020. Besides, I received the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research.</p>
 
 - I'm passionate about applied ML, NLP, knowledge graphs, and explainable AI (XAI). 
 - I love learning, coding, and mentoring. 
@@ -16,19 +16,23 @@ ___
 - Dissertation grade: Summa Cum Laude.
 
 **M.Sc., Kyung Hee University, South Korea [2010-2012]**
-- Major: Data mining and knowledge discovery with minor in AI and cryptography
-- Thesis: Privacy Preserving Mining of Maximal Frequent Patterns in Transactional Databases
+- Major: Data mining and knowledge discovery with a minor in AI and cryptography
+- Thesis: Privacy-Preserving Mining of Maximal Frequent Patterns in Transactional Databases
 - Final grade: 4.038/4.30 (Summa Cum Laude).
 
 **B.Sc., University of Dhaka, Bangladesh [2004-2008]**
-- Major: Computer Science & Engineering with minor in mathematics and statistics
+- Major: Computer Science & Engineering with a minor in mathematics and statistics
 - Final grade: First class honours.
 
 ### PROFESSIONAL CAREER
 ___
-**Senior Data Scientist [2023-]**
-- ALDI SÜD Data & Analytics Services GmbH, Mülheim an der Ruhr, Germany. 
 
+**Senior Data Scientist [January 2023-]**
+- ALDI SÜD Data & Analytics Services GmbH, Mülheim an der Ruhr, Germany.
+  
+**Lead AI Consultant (part) [June 2023-]**
+- Advanced Data Analytics LLC., Meydan, Dubai, U.A.E.
+  
 **Postdoctoral Researcher [2021-2022]**
 - Computer Science 5 - Information Systems & Databases, RWTH Aachen University, Germany  
 
