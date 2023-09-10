@@ -1,5 +1,5 @@
 ## Review works
-I have been invited to act as program committee (PC) members and reviewers for several international conferences, workshops, and journals: 
+I have been invited to act as a program committee (PC) member and reviewer for several international conferences, workshops, and journals: 
 
 - European Conference on ML and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)
 - IEEE International Conference on Data Science and Advanced Analytics (DSAA)
