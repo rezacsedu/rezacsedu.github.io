@@ -26,6 +26,8 @@ nav:
    link: "books"
  - name: "Teaching"
    link: "teaching"
+ - name: "Certifications"
+   link: "certifications"
  - name: "Talks"
    link: "talks"
  - name: "Projects"
