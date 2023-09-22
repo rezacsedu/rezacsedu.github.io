@@ -2,7 +2,7 @@
 ___
 <img class="profile-picture" src="img/1664312512000.jpg" width="100">
 
-<p style='text-align: justify;'> I'm a Sr. Data Scientist at ALDI SÜD - Global Data & Analytics (GDA), Germany. Before joining ALDI SÜD, I worked as a Sr. Data Scientist at Fraunhofer FIT, Germany. I obtained my PhD in Computer Science from RWTH Aachen University majoring in Explainable AI (XAI) with distinction (Summa Cum Laude). I received the best application paper award at the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, Australia, 6-9 October 2020. I also received the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research. Besides, I received the prestigious "Borchers Plaque" as a badge of honour from RWTH Aachen University, Germany in 2023! </p>
+<p style='text-align: justify;'> I'm a Sr. Data Scientist at ALDI SÜD - International Data & Analytics (IDA), Germany. Before joining ALDI SÜD, I worked as a Sr. Data Scientist at Fraunhofer FIT, Germany. I obtained my PhD in Computer Science from RWTH Aachen University majoring in Explainable AI (XAI) with distinction (Summa Cum Laude). I received the best application paper award at the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, Australia, 6-9 October 2020. I also received the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research. Besides, I received the prestigious "Borchers Plaque" as a badge of honour from RWTH Aachen University, Germany in 2023! </p>
 
 - I'm passionate about applied ML, NLP, knowledge graphs, and explainable AI (XAI). 
 - I love learning, coding, and mentoring. 
