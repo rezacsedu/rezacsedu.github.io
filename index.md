@@ -30,7 +30,7 @@ ___
 **Senior Data Scientist [January 2023-]**
 - ALDI SÜD - International Data & Analytics (IDA) Services GmbH, Mülheim an der Ruhr, Germany.
   
-**Lead AI Consultant (part) [June 2023-]**
+**Lead AI Consultant (part-time) [June 2023- October 2023]**
 - Advanced Data Analytics LLC., Meydan, Dubai, U.A.E.
   
 **Postdoctoral Researcher [2021-2022]**
