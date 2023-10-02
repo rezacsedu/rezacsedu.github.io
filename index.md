@@ -10,33 +10,33 @@ ___
 
 ### ACADEMIC CAREER
 ___
-**Ph.D., RWTH Aachen University, Germany [2017-2021]**
+**Ph.D., RWTH Aachen University, Germany [2017 - 2021]**
 - Thesis: Interpreting Black-Box Machine Learning Models with Decision Rules and Knowledge Graph Reasoning 
 - Supervisor: Prof. Dr. Stefan Decker and Prof. Dr. Dietrich Rebholz-Schuhmann
 - Dissertation grade: Summa Cum Laude.
 
-**M.Sc., Kyung Hee University, South Korea [2010-2012]**
+**M.Sc., Kyung Hee University, South Korea [2010 - 2012]**
 - Major: Data mining and knowledge discovery with a minor in AI and cryptography
 - Thesis: Privacy-Preserving Mining of Maximal Frequent Patterns in Transactional Databases
 - Final grade: 4.038/4.30 (Summa Cum Laude).
 
-**B.Sc., University of Dhaka, Bangladesh [2004-2008]**
+**B.Sc., University of Dhaka, Bangladesh [2004 - 2008]**
 - Major: Computer Science & Engineering with a minor in mathematics and statistics
 - Final grade: First class honours.
 
 ### PROFESSIONAL CAREER
 ___
 
-**Senior Data Scientist [January 2023-]**
+**Senior Data Scientist [January 2023 - ]**
 - ALDI SÜD - International Data & Analytics (IDA) Services GmbH, Mülheim an der Ruhr, Germany.
   
-**Lead AI Consultant (part-time) [June 2023- October 2023]**
+**Lead AI Consultant (part-time) [June 2023 - October 2023]**
 - Advanced Data Analytics LLC., Meydan, Dubai, U.A.E.
   
-**Postdoctoral Researcher [2021-2022]**
+**Postdoctoral Researcher [2021 - 2022]**
 - Computer Science 5 - Information Systems & Databases, RWTH Aachen University, Germany  
 
-**Data Scientist [2017-2020] -> Sr. Data Scientist [2020-2022]**
+**Data Scientist [2017 - 2020] -> Sr. Data Scientist [2020 - 2022]**
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
 **ML Engineer [2015-2017]**
