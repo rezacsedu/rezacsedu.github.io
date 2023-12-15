@@ -27,7 +27,7 @@ ___
 ### PROFESSIONAL CAREER
 ___
 
-**Staff Data Scientist [January 2023 - ]**
+**Staff Data Scientist [January 2023 - ~]**
 - ALDI SÜD - International Data & Analytics (IDA) Services GmbH, Mülheim an der Ruhr, Germany.
   
 **Lead AI Consultant (part-time) [June 2023 - October 2023]**
@@ -39,10 +39,10 @@ ___
 **Data Scientist [2017 - 2020] -> Sr. Data Scientist [2020 - 2022]**
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
-**ML Engineer [2015-2017]**
+**ML Engineer [2015 - 2017]**
 - Insight Centre for Data Analytics, University of Galway, Ireland. 
 
-**Sr. Software Engineer [2012-2014] -> Lead Software Engineer [2014-2015]**
+**Sr. Software Engineer [2012-2014] -> Lead Software Engineer [2014 - 2015]**
 -  Samsung Electronics Ltd., South Korea.
 
 **Software Engineer [2009-2010]**
