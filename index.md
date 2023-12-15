@@ -1,4 +1,3 @@
-___
 ### ABOUT ME!
 ___
 <img class="profile-picture" src="img/1664312512000.jpg" width="100">
@@ -9,7 +8,6 @@ ___
 - I love learning, coding, and mentoring. 
 - I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 
-___
 ### ACADEMIC PROFILE
 ___
 
@@ -27,7 +25,6 @@ ___
 - Major: Computer Science & Engineering with a minor in mathematics and statistics
 - Final grade: First class honours.
 
-___
 ### PROFESSIONAL CAREER
 ___
 
