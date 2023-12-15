@@ -2,13 +2,13 @@
 ___
 <img class="profile-picture" src="img/1664312512000.jpg" width="100">
 
-<p style='text-align: justify;'> I'm a Sr. Data Scientist at ALDI SÜD - International Data & Analytics (IDA) Services, Germany. Before joining ALDI SÜD, I worked as a Sr. Data Scientist at Fraunhofer FIT, Germany. I obtained my PhD in Computer Science from RWTH Aachen University majoring in Explainable AI (XAI) with distinction (Summa Cum Laude). I received the best application paper award at the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, Australia, 6-9 October 2020. I also received the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research. Besides, I received the prestigious "Borchers Plaque" as a badge of honour from RWTH Aachen University, Germany in 2023! </p>
+<p style='text-align: justify;'> I'm a Staff Data Scientist at ALDI SÜD - International Data & Analytics Services GmbH, Germany. Before joining ALDI SÜD, I worked at Fraunhofer FIT, Germany as a Sr. Data Scientist. I obtained PhD in Computer Science from RWTH Aachen University majoring in Explainable AI (XAI) with distinction (Summa Cum Laude). I received the best application paper award at the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, Australia, 6-9 October 2020. I was awarded the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research. I also received the "Fraunhofer ICT Dissertation Award 2023". Besides, I received the prestigious "Borchers Plaque" as a badge of honour from RWTH Aachen University, Germany in 2023! </p>
 
 - I'm passionate about applied ML, NLP, knowledge graphs, and explainable AI (XAI). 
 - I love learning, coding, and mentoring. 
 - I wrote several machine learning [books](https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 
-### ACADEMIC CAREER
+### ACADEMIC PROFILE
 ___
 **Ph.D., RWTH Aachen University, Germany [2017 - 2021]**
 - Thesis: Interpreting Black-Box Machine Learning Models with Decision Rules and Knowledge Graph Reasoning 
@@ -27,7 +27,7 @@ ___
 ### PROFESSIONAL CAREER
 ___
 
-**Senior Data Scientist [January 2023 - ]**
+**Staff Data Scientist [January 2023 - ]**
 - ALDI SÜD - International Data & Analytics (IDA) Services GmbH, Mülheim an der Ruhr, Germany.
   
 **Lead AI Consultant (part-time) [June 2023 - October 2023]**
@@ -42,8 +42,8 @@ ___
 **ML Engineer [2015-2017]**
 - Insight Centre for Data Analytics, University of Galway, Ireland. 
 
-**Sr. Software Engineer [2012-2014] -> Lead Engineer [2014-2015]**
+**Sr. Software Engineer [2012-2014] -> Lead Software Engineer [2014-2015]**
 -  Samsung Electronics Ltd., South Korea.
 
-**Lecturer [2009-2010]**
-- Manarat International University, Dhaka, Bangladesh.
+**Software Engineer [2009-2010]**
+- i2Soft Technology, Dhaka, Bangladesh.
