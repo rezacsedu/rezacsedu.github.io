@@ -1,5 +1,5 @@
 ## Academic and professional achievements
-- <p style='text-align: justify;'> <b>Fraunhofer ICT Dissertation Award 2023: First prize for the best doctoral dissertation among Fraunhofer Institutes.</p>. 
+- <p style='text-align: justify;'> <b>Fraunhofer ICT Dissertation Award 2023: First prize for the best doctoral dissertation among Fraunhofer Institutes.</p>
 - <p style='text-align: justify;'> <b>"Borchers Plaque": as a badge of honour from RWTH Aachen University, Germany in 2023.</p>
 - <p style='text-align: justify;'> <b>Fraunhofer FIT Exceptional Performer</b>: I was awarded a special bonus of 1,500€ for my outstanding performance across several projects at Fraunhofer FIT, Germany in the year 2021.</p>
 - <p style='text-align: justify;'> <b>ICT Young Researcher Award 2020</b>: I won the prestigious RWTH Aachen University ICT Young Researcher Award 2020 for my significant contributions to ICT-related research that has increased the international visibility of both RWTH Aachen University and Fraunhofer FIT. I was awarded a research grant of 1,500€ and a certificate. My contributions include scientific publications (e.g., AI/ML workshops, conferences, and journals), and theses supervision (bachelor, master), open-source, and voluntary services (e.g., served PC members and reviewers for international workshops, journals, and conferences).</p>
