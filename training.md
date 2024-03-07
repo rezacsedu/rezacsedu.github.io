@@ -6,7 +6,7 @@ I've completed the following trainings and courses as part of my professional an
   - Scientific Integrity, RWTH Aachen University, September 2021
   - International Summer School on Deep Learning, Warsaw, Poland, July 2019.
 
-  ## Data science, ML, and MLOps courses
+## Data science and ML courses
   I've completed the following online courses involving learning and solving real-world problems hands-on: 
   - Deploying Machine Learning Models in Production
   - LangChain for LLM Application Development
