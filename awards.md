@@ -1,4 +1,4 @@
-## Academic and professional achievements
+## Academic and Professional Highlights
 - <p style='text-align: justify;'> <b>Fraunhofer ICT Dissertation Award 2023</b> for the best doctoral dissertation among Fraunhofer Institutes.</p>
 - <p style='text-align: justify;'> <b>Borchers Plaque</b> as a badge of honour from RWTH Aachen University, Germany in 2023.</p>
 - <p style='text-align: justify;'> I was awarded a special bonus of 1,500€ for my outstanding performance across several projects at Fraunhofer FIT, Germany in the year 2021.</p>
@@ -6,7 +6,7 @@
 - <p style='text-align: justify;'> <b>Best Application Paper Award</b>: My paper "Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network" received the best application paper award and a research grant of 500$ at IEEE International Conference on Data Science and Advanced Analytics (DSAA - core A ranked conference), Sydney, Australia, October 2020.</p>
 - <p style='text-align: justify;'> <b>Employee of the Month</b>: I was awarded as the best employee for December 2014 for my outstanding contributions to Samsung Electronics. My contributions included: i) new feature development and improvement of 140+ Android model development and OS upgrade projects (Audio Framework, Voice Recorder, Text-to-speech (TTS), and S-Voice applications), ii) submissions of 17 ideas in Samsung's Idea Open Space and discovery-of-in-closure for mobile and wearable devices, and iii) software release and customer-specific customization of Android model development and OS upgrade commercialization projects. </p>
 
-## Research grants
+## Research Grants
 - First prize and a research grant of 5,000€ for Fraunhofer ICT Dissertation Award 2023.
 - Research grant of 1,500€ for ICT Young Researcher award at RWTH Aachen University, November 2020.
 - Co-acquire research grant of NFDI4DataScience of 20M€.
