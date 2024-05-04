@@ -1,4 +1,4 @@
-## Research grants
+## Research Grants
 - Achieved research grant of 5,000€ for Fraunhofer ICT Dissertation Award 2023.
 - Co-acquired research grant of NFDI4DataScience worth 5M€.
 - Co-acquired BMBF grant worth 5M€ for the German-French joint project Crypto4GraphAI project
