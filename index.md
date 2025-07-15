@@ -6,7 +6,7 @@ ___
 
 - I'm passionate about Data Science, Applied ML, NLP, Large Language Models (LLMs), MLOps, Knowledge Graphs, and Explainable AI (XAI). 
 - I'm a technology lover and love learning, coding, and mentoring. 
-- I wrote several machine learning books (https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
+- I wrote several machine learning books (<https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss>) too.
 
 ### ACADEMIC PROFILE
 ___
