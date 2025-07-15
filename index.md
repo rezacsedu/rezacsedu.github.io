@@ -4,7 +4,7 @@ ___
 
 <p style='text-align: justify;'> I'm a Lead Data Scientist at ALDI SÜD - International Data & Analytics Services GmbH, Germany. Before joining ALDI SÜD, I worked as a Senior Data Scientist at Fraunhofer FIT, Germany and as a Postdoctoral Researcher at RWTH Aachen University, Germany. I obtained a PhD in Computer Science from RWTH Aachen University in Explainable AI (XAI) with distinction (Summa Cum Laude). I received the best application paper award at IEEE International Conference on Data Science & Advanced Analytics (DSAA'2020), Sydney, Australia. I was awarded the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research. I also received the "Fraunhofer ICT Dissertation Award 2023". Besides, I received the prestigious "Borchers Plaque" as a badge of honour from RWTH Aachen University, Germany, in 2023. </p>
 
-- I'm passionate about Applied ML, NLP, Large Language Models (LLMs), MLOps, Knowledge Graphs, and Explainable AI (XAI). 
+- I'm passionate about Data Science, Applied ML, NLP, Large Language Models (LLMs), MLOps, Knowledge Graphs, and Explainable AI (XAI). 
 - I'm a technology lover and love learning, coding, and mentoring. 
 - I wrote several machine learning books (https://www.amazon.com/s?k=Md.+Rezaul+Karim&ref=nb_sb_noss) too.
 
