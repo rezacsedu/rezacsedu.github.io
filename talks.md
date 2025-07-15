@@ -1,7 +1,7 @@
 ## Research Talks
 <p style='text-align: justify;'>I have participated in several international conferences and given research talks:</p>
 
-- <p style='text-align: justify;'> Practical Applications and Technical Insights of LLMs and Generative AI in Industry, ZB MED – Information Centre for Life Sciences, May 2025.</p> 
+- <p style='text-align: justify;'> Practical Applications & Technical Insights of LLMs and Generative AI in Industry, ZB MED – Information Centre for Life Sciences, May 2025.</p> 
 - <p style='text-align: justify;'> Research talk on Explainable AI at the University of Siegen, Germany, November 2021.</p> 
 - <p style='text-align: justify;'> Presented paper titled "Drug-Drug Interaction Prediction Based on Knowledge Graph Embeddings and Convolutional-LSTM Network" at 10th ACM International Conference on Bioinformatics and Computational Biology (ACM-BCB), Niagara Falls, USA, 2019.</p> 
 - <p style='text-align: justify;'> Presented paper titled "Cancer Risk and Type Prediction Based on CNVs with LSTM and Deep Belief Network" at 1st Artificial Intelligence International Conference (A2IC'2018), November 21-23, Barcelona, Spain.</p> 
