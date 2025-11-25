@@ -31,10 +31,10 @@ ___
 **Lead Data Scientist [January 2023 ~]**
 - ALDI SÜD - International Data & Analytics (IDA) Services GmbH, Mülheim an der Ruhr, Germany.
   
-**Lead AI Consultant (part-time) [June 2023 - October 2023]**
+**Lead AI Consultant (part-time) [June 2024 - December 2024]**
 - Advanced Data Analytics LLC., Meydan, Dubai, U.A.E.
   
-**Postdoctoral Researcher [2021 - 2022]**
+**Postdoctoral Researcher [2022 - 2023]**
 - Computer Science 5 - Information Systems & Databases, RWTH Aachen University, Germany  
 
 **Senior Data Scientist [2017 - 2022]**
@@ -43,7 +43,7 @@ ___
 **ML Engineer [2015 - 2017]**
 - Insight Centre for Data Analytics, University of Galway, Ireland. 
 
-**Lead Software Engineer [2012 - 2015]**
+**Senior Software Engineer -> Lead Engineer [2012 - 2015]**
 -  Samsung Electronics Ltd., South Korea.
 
 **Software Engineer [2009-2010]**
