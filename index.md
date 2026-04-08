@@ -2,7 +2,7 @@
 ___
 <img class="profile-picture" src="img/1664312512000.jpg" width="100">
 
-<p style='text-align: justify;'> I'm a Lead Data Scientist at ALDI SÜD - International Data & AI, Germany. Before joining ALDI SÜD, I worked as a Senior Data Scientist at Fraunhofer FIT in Germany and as a Postdoctoral Researcher at RWTH Aachen University in Germany. I obtained a PhD in Computer Science from RWTH Aachen University in Explainable AI (XAI) with distinction (Summa Cum Laude). I received the Best Application Paper Award at the IEEE International Conference on Data Science & Advanced Analytics (DSAA'2020) in Sydney, Australia. I was awarded the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research. I also received the "Fraunhofer ICT Dissertation Award 2023". Besides, I received the prestigious "Borchers Plaque" as a badge of honour from RWTH Aachen University, Germany, in 2023. </p>
+<p style='text-align: justify;'> I'm a Senior Staff Data Scientist at ALDI SÜD - International Data & AI, Germany. Before joining ALDI SÜD, I worked as a Senior Data Scientist at Fraunhofer FIT in Germany and as a Postdoctoral Researcher at RWTH Aachen University in Germany. I obtained a PhD in Computer Science from RWTH Aachen University in Explainable AI (XAI) with distinction (Summa Cum Laude). I received the Best Application Paper Award at the IEEE International Conference on Data Science & Advanced Analytics (DSAA'2020) in Sydney, Australia. I was awarded the prestigious RWTH Aachen "ICT Young Researcher Award" in 2020 for my outstanding contributions to ICT research. I also received the "Fraunhofer ICT Dissertation Award 2023". Besides, I received the prestigious "Borchers Plaque" as a badge of honour from RWTH Aachen University, Germany, in 2023. </p>
 
 - I'm passionate about Data Science, Applied ML, NLP, Large Language Models (LLMs), MLOps, Knowledge Graphs, and Explainable AI (XAI). 
 - I'm a technology lover and love learning, coding, and mentoring. 
@@ -28,10 +28,10 @@ ___
 ### PROFESSIONAL CAREER
 ___
 
-**Lead Data Scientist [January 2023 ~]**
+**Senior Staff Data Scientist [January 2023 ~]**
 - ALDI SÜD - International Data & Analytics (IDA) Services GmbH, Mülheim an der Ruhr, Germany.
   
-**Lead AI Consultant (part-time) [June 2024 - December 2024]**
+**Lead AI Consultant (part-time) [June 2024 - June 2025]**
 - Advanced Data Analytics LLC., Meydan, Dubai, U.A.E.
   
 **Postdoctoral Researcher [2022 - 2023]**
@@ -40,10 +40,10 @@ ___
 **Senior Data Scientist [2017 - 2022]**
 - Fraunhofer FIT, Sankt Augustin, Germany. 
 
-**ML Engineer [2015 - 2017]**
+**NLP Engineer [2015 - 2017]**
 - Insight Centre for Data Analytics, University of Galway, Ireland. 
 
-**Senior Software Engineer -> Lead Engineer [2012 - 2015]**
+**Senior Software Engineer -> Regional Engineering Team Lead [2012 - 2015]**
 -  Samsung Electronics Ltd., South Korea.
 
 **Software Engineer [2009-2010]**
