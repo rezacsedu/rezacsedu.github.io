@@ -18,8 +18,8 @@ sass:
 nav:
  - name: "Home"
    link: "/"
- - name: "Resume"
-   link: "cv.pdf"
+ # - name: "Resume"
+ #   link: "cv.pdf"
  - name: "Awards"
    link: "awards"
  - name: "Books"
